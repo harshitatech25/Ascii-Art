@@ -16,3 +16,12 @@ How to Run
 Run the Python script:
 python main.py
 
+**Screenshots Output**
+![Output 1](img/img1.PNG)
+![Output 2](img/img2.PNG)
+
+**Author**
+Harshita Tech
+GitHub: [@harshitatech25](https://github.com/harshitatech25)
+
+
