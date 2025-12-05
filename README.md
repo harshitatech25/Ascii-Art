@@ -17,8 +17,8 @@ Run the Python script:
 python main.py
 
 **Screenshots Output**
-![Output 1](img/img1.PNG)
-![Output 2](img/img2.PNG)
+(img/img1.PNG)
+(img/img2.PNG)
 
 **Author**
 Harshita Tech
